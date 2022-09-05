@@ -1,16 +1,15 @@
-# 2022-javascript-bank
-
+# 2022-javascript-bank 🏦
 ## 목표 
-- Level4 기간동안(9/5~10/30) deep dive 1회독을 완료합니다.
+- Level4 기간동안 javascript deep dive 1회독을 완료합니다.
 - javascript 개념을 정리합니다.
-- javascript 관련 질문을 공유하며, 인터뷰를 준비합니다.
+- javascript 관련 질문을 공유하며 인터뷰를 준비합니다.
 
 ## 일정 
-- 스터디 기간 
-  Level4(9/5~10/30)
-- 스터디 
+- 스터디 기간: 
+  Level4(`2022.9/5 ~ 2022.10/30`)
+- 스터디:
   매주 화요일 `19:00 ~ 22:00`
-- 디스커션 질문 올리기 
+- 디스커션 질문 올리기:
   매주 일요일 `23:59`까지  
 
 ## 진행 방법 
@@ -28,3 +27,6 @@
 
 
 ## 멤버 
+|[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) | 
+|:---:|:---:|:---:|:---:|
+| 위니 | 민초 | 안 | 코이 |
