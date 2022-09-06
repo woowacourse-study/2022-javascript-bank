@@ -24,6 +24,15 @@
 - 매주 스터디가 끝날 때, 다음주 스터디의 목표를 정합니다. 
 - 마지막주는 스터디 전체를 정리하는 시간을 가집니다. 
 
+### 일정
+<details>
+<summary>9/13(화)</summary>
+```
+범위 : 2장 ~ 13장 (3장 제외)
+장소 : 선릉 캠퍼스
+시간 : 19:00 ~ 22:00
+```
+</details>
 
 ## 멤버 
 |[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) | 
