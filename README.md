@@ -42,13 +42,21 @@
 </details>
 
 <details>
-<summary>9/27(화)</summary>
+<summary><s>9/27(화)</s></summary>
+- 미션, 데모데이, 프로젝트 일정으로 인해 취소합니다. 
 
 - 범위 : this
 - 장소 : 선릉 캠퍼스
 - 시간 : 19:00 ~ 22:00
 </details>
 
+<details>
+<summary>10/4(화)</summary>
+
+- 범위 : this
+- 장소 : 선릉 캠퍼스
+- 시간 : 19:00 ~ 22:00
+</details>
 
 ## 멤버 
 |[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) | 
