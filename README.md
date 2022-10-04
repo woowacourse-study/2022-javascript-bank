@@ -58,6 +58,16 @@
 - 시간 : 19:00 ~ 22:00
 </details>
 
+
+<details>
+<summary>10/11(화)</summary>
+
+- 범위 : 콜백 함수, 비동기, 이벤트루프(deep dive 42장, 812p~) 
+- 장소 : 선릉 캠퍼스
+- 시간 : 19:00 ~ 22:00
+- 공유자📢 : 민초(콜백 함수, 비동기) & 코이(이벤트루프) 
+</details>
+
 ## 멤버 
 |[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) | 
 |:---:|:---:|:---:|:---:|
