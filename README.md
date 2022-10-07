@@ -69,6 +69,6 @@
 </details>
 
 ## 멤버 
-|[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) | 
-|:---:|:---:|:---:|:---:|
-| 위니 | 민초 | 안 | 코이 |
+|[![](https://github.com/rladpwl0512.png?size=80)](https://github.com/rladpwl0512)|[![](https://github.com/jswith.png?size=80)](https://github.com/jswith) |[![](https://github.com/jin7969.png?size=80)](https://github.com/jin7969) | [![](https://github.com/InKyoJeong.png?size=80)](https://github.com/InKyoJeong) |  [![](https://github.com/byhhh2.png?size=80)](https://github.com/byhhh2) |  [![](https://github.com/DomMorello.png?size=80)](https://github.com/DomMorello) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 위니 | 민초 | 안 | 코이 | 무비 | 돔하디 
