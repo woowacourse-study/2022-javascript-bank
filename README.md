@@ -79,7 +79,7 @@
 </details>
 
 <details>
-<summary><s>10/25(화)</s></summary>
+<summary>10/25(화)</summary>
 
 - 범위 : 프로토타입
 - 장소 : 잠실 캠퍼스
